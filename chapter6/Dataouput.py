@@ -19,13 +19,14 @@ class DataOutput(object):
         fout.write("<body>")
         fout.write("<table>")
         count = 0
-        for data in self.datas:
+        for data in self.datas[:]:
             count += 1
             fout.write("<tr>")
             fout.write("<td>%s</td>" % data['url'])
             fout.write("<td>%s</td>" % data['title'])
             fout.write("<td>%s</td>" % data['summary'])
             fout.write("</tr>")
+            self.datas.remove(data)
         fout.write("<h1>{0}</h1>".format(count))
         fout.write("</table>")
         fout.write("</body>")
