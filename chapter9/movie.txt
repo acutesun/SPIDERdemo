@@ -1,0 +1,50 @@
+'''已经上映完成的电影'''
+{"value": {"isRelease": true,
+           "movieRating": {"MovieId": 217130, "RatingFinal": 7.9, "RDirectorFinal": 8.2, "ROtherFinal": 7.4,
+                           "RPictureFinal": 8.6, "RShowFinal": 0, "RStoryFinal": 7.7, "RTotalFinal": 0,
+                           "Usercount": 4392, "AttitudeCount": 2743, "UserId": 0, "EnterTime": 0, "JustTotal": 0,
+                           "RatingCount": 0, "TitleCn": "", "TitleEn": "", "Year": "", "IP": 0},
+
+           "movieTitle": "比利·林恩的中场战事", "tweetId": 0, "userLastComment": "", "userLastCommentUrl": "", "releaseType": 3,
+           "boxOffice": {"Rank": 0, "TotalBoxOffice": "1.65", "TotalBoxOfficeUnit": "亿", "TodayBoxOffice": "0.0",
+                         "TodayBoxOfficeUnit": "万", "ShowDays": 0, "EndDate": "2017-07-28 05:15",
+                         "FirstDayBoxOffice": "2543.81", "FirstDayBoxOfficeUnit": "万"}}, "error": null};
+var movieOverviewRatingResult = result_2017726142988643;
+
+'''正在上演'''
+{"value": {"isRelease": true,
+           "movieRating": {"MovieId": 230647, "RatingFinal": -1, "RDirectorFinal": 0, "ROtherFinal": 0,
+                           "RPictureFinal": 0, "RShowFinal": 0, "RStoryFinal": 0, "RTotalFinal": 0,
+                           "Usercount": 0, "AttitudeCount": 2207, "UserId": 0, "EnterTime": 0, "JustTotal": 0,
+                           "RatingCount": 0, "TitleCn": "", "TitleEn": "", "Year": "", "IP": 0},
+
+           "movieTitle": "建军大业", "tweetId": 0, "userLastComment": "", "userLastCommentUrl"
+           : "", "releaseType": 1}, "error": null};
+var
+movieOverviewRatingResult = result_201772817244047070;
+
+{"value": {"isRelease": true, "movieRating": {"MovieId": 229733, "RatingFinal"
+: 7.3, "RDirectorFinal": 7.4, "ROtherFinal": 6.7, "RPictureFinal": 7.5, "RShowFinal": 0, "RStoryFinal": 6.5,
+                                              "RTotalFinal"
+                                              : 0, "Usercount": 817, "AttitudeCount": 5770, "UserId": 0, "EnterTime": 0,
+                                              "JustTotal": 0, "RatingCount": 0, "TitleCn"
+                                              : "", "TitleEn": "", "Year": "", "IP": 0},
+           "movieTitle": "战狼2","tweetId": 0, "userLastComment": "", "userLastCommentUrl": "", "releaseType": 1,
+
+           "boxOffice": {"Rank": 1, "TotalBoxOffice": "2.84", "TotalBoxOfficeUnit": "亿", "TodayBoxOffice"
+           : "1.80", "TodayBoxOfficeUnit": "亿", "ShowDays": 2, "EndDate": "2017-07-28 17:30"}}, "error": null};
+
+var
+movieOverviewRatingResult = result_20177281733978657;
+
+''' 即将上演的电影'''
+{"value": {"isRelease": false,
+           "movieRating": {"MovieId": 139347, "RatingFinal": -1, "RDirectorFinal": 0, "ROtherFinal": 0,
+                           "RPictureFinal": 0, "RShowFinal": 0, "RStoryFinal": 0, "RTotalFinal": 0,
+                           "Usercount": 42, "AttitudeCount": 93, "UserId": 0, "EnterTime": 0, "JustTotal": 0,
+                           "RatingCount": 0, "TitleCn": "", "TitleEn": "", "Year": "", "IP": 0},
+
+           "movieTitle": "天际之上", "tweetId": 0, "userLastComment": "", "userLastCommentUrl"
+           : "", "releaseType": 0}, "error": null};
+var
+movieOverviewRatingResult = result_201772817123611501;
